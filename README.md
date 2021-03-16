@@ -17,3 +17,4 @@ My name is Mark. I was born in Sydney and come from an Italian background, throu
 I want to study with RMIT because I believe they can offer me one of the best looked upon qualifications in the professional world, which would in turn increase my job prospects as I look to build a career for myself in the world of cyber security and more specifically my ideal job as a penetration tester. I thought studying through Open Universities was also a really good option, as it allows me to be flexible with combing study and work.
 
 I expect to learn relevant topics and subjects that will aid me in finding work after my study. Personally, with the interests that I have I would love to go into further depth with programming and networking, as careers in these fields are what I aspire to achieve.
+
