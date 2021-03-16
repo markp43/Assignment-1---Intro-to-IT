@@ -2,6 +2,7 @@
 Mark Parisotto s3910961
 
 <h2> About </h2>
+<img src="me.jpg" width="215" height="200" alt="portrait" title="portrait"/>
 My name is Mark. I was born in Sydney and come from an Italian background, through which I can speak a bit of the language. I completed my first five years of schooling in Sydney before I moved to Griffith in regional NSW, which is where I stayed until completing my HSC in 2015. Before I started my current employed as a Health Information Officer at a private hospital in Melbourne, I worked at two separate petrol stations as a customer service attendant and while I've enjoyed all my work so far, it's not something I see myself doing for the rest of my life, which is why I've decided to pursue IT.
 <h4> Hobbies </h4>
 <ul>
@@ -18,3 +19,16 @@ I want to study with RMIT because I believe they can offer me one of the best lo
 
 I expect to learn relevant topics and subjects that will aid me in finding work after my study. Personally, with the interests that I have I would love to go into further depth with programming and networking, as careers in these fields are what I aspire to achieve.
 
+<h2> Ideal Job </h2>
+I would consider Penetration Testing as my ideal job and something I will be aiming to work towards over the course of my studies here at RMIT. From my knowledge, a penetration tester is responsible for testing network security and integrity through various means such as exploitation software similar to how an unethical hacker would attempt to gain access. It is with these findings that they write up reports detailing how access was gained (if it was) and suggestions on how to improve security. What makes it interesting to me is basically getting the license to hack and try and gain access, really testing one’s knowledge on how to think outside the box and because of this I believe that it is a job that to me would never get old and stale.
+
+Experience in network security would be required as the job is quite specialist, along with this knowledge of various security styles and techniques would also go a long way. Knowledge in with network penetration tools and experience in red teaming would be beneficial as it is a major part of the job. Participating in hacking challenges is also a bonus, along with a proficiency in programming and any IT industry certifications and awards (CREST and OSCP).
+
+At this stage, I understandably have none of these qualifications, certifications, or experience, though I do believe I possess the necessary lateral thinking required by the job. Over the duration of this course, my goal is to strengthen my knowledge in networking to the point that along with the completed degree I would provide outstanding knowledge to apply for a job in network security. Once in the professional world, with sufficient skill and experience, I would aim for the completion of hacking challenges and contests and any certifications that might be relevant and looked favorably upon. I believe these along with the years of experience I would have would put me in good stead to apply for this job.
+
+<img src="job.JPG" width="600" height="250" alt="job" title="job"/>
+https://www.seek.com.au/job/51464905?type=promoted#searchRequestToken=e79357cf-b53e-4b27-a852-12ed97953a59
+
+<h2> Personal Profile </h2>
+<h4> Myers-Briggs Test </h4>
+<img src="test1.JPG" width="600" height="250" alt="test1" title="test1"/>
