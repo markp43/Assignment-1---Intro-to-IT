@@ -32,3 +32,7 @@ https://www.seek.com.au/job/51464905?type=promoted#searchRequestToken=e79357cf-b
 <h2> Personal Profile </h2>
 <h4> Myers-Briggs Test </h4>
 <img src="test1.JPG" width="600" height="250" alt="test1" title="test1"/>
+<h4> Learning Style Test </h4>
+<img src="test2.JPG" width="600" height="250" alt="test2" title="test2"/>
+<h4> Big 5 Personality Test </h4>
+<img src="test3.JPG" width="600" height="250" alt="test3" title="test3"/>
