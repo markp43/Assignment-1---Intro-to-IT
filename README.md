@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 # Assignment 1 - Introduction to IT
 Mark Parisotto s3910961
 
