@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<head>
+<title> Assignment 1 </title>
+</head>
 # Assignment 1 - Introduction to IT
 Mark Parisotto s3910961
 
