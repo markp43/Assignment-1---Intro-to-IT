@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <head>
 <title> Assignment 1 </title>
 </head>
@@ -62,3 +63,4 @@ As for skill required, I would have to learn Swift effectively to be able to mak
 
 Despite the game being quite a niche product, I believe that if this product is successful, it would fill the need for a mobile Rugby League manager game, which I am sure other fans of the sport would be looking forward to. I would love to be able to publish the game on the App Store and make it available for everyone to download. Adding it to the Google Play Store would also increase its reach and potential. 
 
+</html>
