@@ -3,7 +3,7 @@
 <head>
 <title> Assignment 1 </title>
 </head>
-# Assignment 1 - Introduction to IT
+ <h1> Assignment 1 - Introduction to IT </h1> </br>
 Mark Parisotto s3910961
 
 <h2> About </h2>
